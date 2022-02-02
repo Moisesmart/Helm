@@ -17,3 +17,8 @@
 
 
 ![wordddd](https://user-images.githubusercontent.com/72433702/152128160-110cf47f-e548-4563-9052-4e30bb342160.PNG)
+
+
+
+
+![scheme](https://user-images.githubusercontent.com/72433702/152133749-a55d589c-b245-4a55-8914-de23966f55b4.PNG)
