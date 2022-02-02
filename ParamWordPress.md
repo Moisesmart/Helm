@@ -13,3 +13,7 @@
 
 
 ![valores](https://user-images.githubusercontent.com/72433702/152127742-e7aa7ce8-1bd9-4135-9917-178303d28e2e.PNG)
+
+
+
+![wordddd](https://user-images.githubusercontent.com/72433702/152128160-110cf47f-e548-4563-9052-4e30bb342160.PNG)
