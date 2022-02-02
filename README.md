@@ -12,7 +12,7 @@ Vamos a Instalar Kubernetes en remoto en un servidor alojado en Cloud.io
 3.1- [ Listar Repositorios ](https://github.com/Moisesmart/Helm/blob/main/ListarRepo.md)  
 3.2- [ Añadir repositorios: bitnami. ](https://github.com/Moisesmart/Helm/blob/main/A%C3%B1adirRepo.md)  
 3.3- [ Quitar repositorios. ](https://github.com/Moisesmart/Helm/blob/main/QuitarRepo.md)  
-3.4- [ Buscar charts: nginx, wordpress, etc. ]()  
+3.4- [ Buscar charts: nginx, wordpress, etc. ](https://github.com/Moisesmart/Helm/blob/main/BuscarChart.md)  
  ### 4- Caso práctico: Instalar Wordpress  
 4.1- [ Vamos a parametrizar el wordpress, indicando dos parámetros: el tipo de servicio y el nombre del blog ]()  
 4.2- [ Comprobación de los objetos creados. ]()  
