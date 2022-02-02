@@ -8,7 +8,7 @@ El proyecto consiste en instalar Helm e instalar Wordpress a través de Helm
 ## Índice:
 1. [ ¿Qué es Helm? ¿Qué son los charts?](https://github.com/Moisesmart/k0s/blob/main/introduccion.md)  
 2. [ Instalación de Helm ](https://github.com/Moisesmart/k0s/blob/main/k0s.md)  
-3. [ Trabajando con repositorios ](https://github.com/Moisesmart/k0s/blob/main/cloud.md)  
+## 3- Trabajando con repositorios  
 3.1- [ Listar repositorios ](https://github.com/Moisesmart/k0s/blob/main/preparacion.md)
 3.2- [ Añadir repositorios: bitnami ](https://github.com/Moisesmart/k0s/blob/main/instalacion.md)
 3.3- [ Quitar repositorios ](https://github.com/Moisesmart/k0s/blob/main/instalacion.md)
