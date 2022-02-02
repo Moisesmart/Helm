@@ -4,6 +4,9 @@
 ![wordpress2](https://user-images.githubusercontent.com/72433702/152125343-eedfae2b-a7b7-4658-8058-c64a66ce7cbf.PNG)
 
 
+## TENDREMOS QUE CREAR UN ARCHIVO PARA QUE AL INSTALAR WORDPRESS LO LEA CON LAS CARACTERÍSTICAS QUE QUERAMOS, EN ESTE CASO CREAREMOS UN ARCHIVO .YAML LLAMADO VALORES
+
+
 ## EJECUTAMOS EL SIGUIENTE COMANDO COMO EJEMPLO:
 ###  `helm install miservidor bitnami/wordpress --set service.type=NodePort wordpressBlogName=moisesWordpress.ddns.net`
 
