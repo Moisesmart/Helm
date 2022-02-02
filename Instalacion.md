@@ -16,3 +16,5 @@
 ## `Set-ExecutionPolicy AllSigned`
 
 #### Al ejecutar este comando se firmarán todas las políticas para poder instalar Chocolatey
+
+![helm](https://user-images.githubusercontent.com/72433702/152120048-4ea9f519-9ee1-4757-a1ea-048983efd219.PNG)
