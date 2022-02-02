@@ -28,3 +28,9 @@
 ## `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
 
 ![helm2](https://user-images.githubusercontent.com/72433702/152120555-4b3d6e56-86d4-40da-8079-97b5110388c1.PNG)
+
+![helm3](https://user-images.githubusercontent.com/72433702/152120901-7115d383-87d1-4783-af4e-f43ca9d4f139.PNG)
+
+![helm4](https://user-images.githubusercontent.com/72433702/152120927-e50446d1-7176-489f-a843-44753e157956.PNG)
+
+
