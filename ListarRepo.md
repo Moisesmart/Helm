@@ -3,4 +3,4 @@
 
 ### **PARA LISTAR REPOSITORIOS TENDREMOS QUE EJECUTAR EL SIGUIENTE COMANDO:**
 
-##`helm repo list`
+## `helm repo list`
