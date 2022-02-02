@@ -2,7 +2,7 @@
 
 ### INSTALACIÓN EN POWERSHELL
 
-#### PASOS PREVIOS
+#### **PASOS PREVIOS**
 
 #### **Instalar CHOCOLATEY**
 
