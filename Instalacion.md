@@ -36,6 +36,19 @@
 
 ## INSTALACIÓN DE HELM
 
+![helm](https://user-images.githubusercontent.com/72433702/152121123-6460d515-93ec-4162-8763-5f62abe85cd0.JPG)
+
+![helm1](https://user-images.githubusercontent.com/72433702/152121176-ada35110-70b5-47c6-94c5-a6efbca05b60.JPG)
+
+![helm2](https://user-images.githubusercontent.com/72433702/152121199-26b2ee00-5a6b-4f99-8960-2bc51373692e.JPG)
+
+![helm3](https://user-images.githubusercontent.com/72433702/152121222-b8c199d3-aa13-48b0-b6ae-ae298e48450f.JPG)
+
+
+
+
+
+
 
 
 
