@@ -8,6 +8,6 @@
 
 
 ## EJECUTAMOS EL SIGUIENTE COMANDO COMO EJEMPLO:
-###  `helm install miservidor bitnami/wordpress --set service.type=NodePort wordpressBlogName=moisesWordpress.ddns.net`
+###  `helm install miblog bitnami/wordpress --set service.type=NodePort -f valores.yaml stable/wordpress`
 
 
