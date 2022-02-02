@@ -9,7 +9,7 @@ Vamos a Instalar Kubernetes en remoto en un servidor alojado en Cloud.io
 ### 2- Instalación
 2- [ Instalación de Helm. ](https://github.com/Moisesmart/Helm/blob/main/Instalacion.md)  
 ### 3- Trabajando con repositorios.  
-3.1- [ Listar Repositorios ]()  
+3.1- [ Listar Repositorios ](https://github.com/Moisesmart/Helm/blob/main/ListarRepo.md)  
 3.2- [ Añadir repositorios: bitnami. ]()  
 3.3- [ Quitar repositorios. ]()  
 3.4- [ Buscar charts: nginx, wordpress, etc. ]()  
