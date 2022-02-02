@@ -4,3 +4,5 @@
 ### **PARA LISTAR REPOSITORIOS TENDREMOS QUE EJECUTAR EL SIGUIENTE COMANDO:**
 
 ## `helm repo list`
+
+![repo](https://user-images.githubusercontent.com/72433702/152122260-5b445fae-2202-4881-9052-2fb07a81ea13.PNG)
