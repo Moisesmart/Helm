@@ -1,4 +1,6 @@
-## **INSTALACIÓN DE HELM**  ![helm-kubernetes](https://user-images.githubusercontent.com/72433702/152120096-5b10f944-a51e-4a63-9c54-a9debcd9220b.png)
+## **INSTALACIÓN DE HELM**  
+
+![helm-kubernetes](https://user-images.githubusercontent.com/72433702/152120096-5b10f944-a51e-4a63-9c54-a9debcd9220b.png)
 
 
 ### INSTALACIÓN EN POWERSHELL
