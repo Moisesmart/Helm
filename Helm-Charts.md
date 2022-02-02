@@ -1,5 +1,7 @@
 # ¿Qué es Helm? ¿Qué son los charts? 
 
+![1 tVu4epvC477SHqIlQ-qKLQ](https://user-images.githubusercontent.com/72433702/152121524-b6a13107-ce44-4f08-937b-1c9dfb7464b8.gif)
+
 
 # **Helm**
 ## Helm (del término marítimo de timón) es una herramienta para gestionar aplicaciones de Kubernetes. Helm te ayuda a timonear Kubernetes usando cartas de navegación, que en inglés se conocen como Helm Charts. Aunque nos gustan las referencias de marítimas de Helm y Kubernetes, el término ‘carta de navegación’ o ‘carta’ puede ser más difícil de entender que Chart.
