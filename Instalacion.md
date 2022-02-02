@@ -10,4 +10,6 @@
 
 ## 1-Abrimos PowerShell y ejecutamos los siguientes comandos:
 
-`Get-ExecutionPolicy`
+## `Get-ExecutionPolicy`
+
+## 
