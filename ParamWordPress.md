@@ -11,3 +11,4 @@
 ###  `helm install miblog bitnami/wordpress --set service.type=NodePort -f valores.yaml stable/wordpress`
 
 
+![valores](https://user-images.githubusercontent.com/72433702/152127440-472d7a20-e9ec-44ec-8b81-cddcef6de4b3.PNG)
