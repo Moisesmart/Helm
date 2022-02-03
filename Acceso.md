@@ -1,4 +1,6 @@
 
+## Acceso a la aplicación desde la IP
+
 ![wordpress2](https://user-images.githubusercontent.com/72433702/152315586-4e77b00f-e01b-485e-b698-993a354c6414.PNG)
 
 
