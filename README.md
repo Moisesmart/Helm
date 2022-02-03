@@ -18,7 +18,7 @@ Vamos a Instalar Kubernetes en remoto en un servidor alojado en Cloud.io
 4.2- [ Comprobación de los objetos creados. ](https://github.com/Moisesmart/Helm/blob/main/CompCreaObj.md)  
 4.3- [ Acceso a la aplicación ](https://github.com/Moisesmart/Helm/blob/main/Acceso.md)  
 ### 5- Referencias  
-5.1- [ Referencias consultadas ]()  
+5.1- [ Referencias consultadas ](https://github.com/Moisesmart/Helm/blob/main/referencias.md)  
 
 
 
