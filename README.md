@@ -23,3 +23,5 @@ Vamos a Instalar Kubernetes en remoto en un servidor alojado en Cloud.io
 
 
 
+
+![by-nd](https://user-images.githubusercontent.com/72433702/152338775-04430582-3471-4a63-a2fd-7fde10371744.png)
