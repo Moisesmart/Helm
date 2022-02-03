@@ -1,5 +1,6 @@
 ## DESPLEGAR WORDPRESS CON DOS PARÁMETROS
 
+## Parámetro wordpressscheme=http://moiseswordpress.com` para indicar nuestra url para el acceso a WordPress
 
 ## `helm install moiseswordpress bitnami/wordpress --set service.type=NodePort --set wordpressscheme=http://moiseswordpress.com`
 
