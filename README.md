@@ -15,7 +15,7 @@ Vamos a Instalar Kubernetes en remoto en un servidor alojado en Cloud.io
 3.4- [ Buscar charts: nginx, wordpress, etc. ](https://github.com/Moisesmart/Helm/blob/main/BuscarChart.md)  
  ### 4- Caso práctico: Instalar Wordpress  
 4.1- [ Vamos a parametrizar el wordpress, indicando dos parámetros: el tipo de servicio y el nombre del blog ](https://github.com/Moisesmart/Helm/blob/main/ParamWordPress.md)  
-4.2- [ Comprobación de los objetos creados. ]()  
+4.2- [ Comprobación de los objetos creados. ](https://github.com/Moisesmart/Helm/blob/main/CompCreaObj.md)  
 4.3- [ Acceso a la aplicación ]()  
 ### 5- Referencias  
 5.1- [ Referencias consultadas ]()  
